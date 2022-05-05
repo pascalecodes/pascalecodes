@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on several client applications ready 🚀
 - 👩🏾‍💻 Accepting new freelance clients check out my portfolio “Mentoring software engineering students with [Portfolio](https://pascaledelaunay.netlify.app/)
 - 👀 I’m looking to collaborate on Software Engineering and Next-Gen Technology Projects
-- 📬 Reach me: pascaledev@gmail.com
+- 📬 Reach me: pdelauna@gmail.com
 
  - 💬 Ask me about Software Engineering, Sports, Competing, Leadership, Sales Engineering, Solutions Architect techologies like Cybersecurity or Collaboration
 
