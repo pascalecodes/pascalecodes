@@ -2,8 +2,8 @@
 
 A technologist by DNA, with a background in product, strategy, sales and engineering. I love the entire process of developing creative ideas, whether they be my own or others. When it comes to 🧠,  I subscribe to Kaizen philosophy, I enjoy learning new things, always willing to find creative solutions. 
 
-🥇 Since I hung up spikes as a professional triple jumper 🏃🏾‍♀️ I have even more time to spend learning, creating and building :cool: things :fireworks: 
-🛑 Don't get it twisted I'm still 🏋🏾‍♀️ (and yes probably "can beat you in a race" and "squat more than you") #TeamFit4life
+🥇 Since I hung up spikes as a professional triple jumper 🏃🏾‍♀️ I have even more time to spend learning, creating and building :cool: things :fireworks:. 
+- 🛑 Don't get it twisted I'm still 🏋🏾‍♀️ (and yes probably "can beat you in a race" and "squat more than you") #TeamFit4life
 
 <!--
 **pascalecodes/pascalecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +26,7 @@ Here are some ideas to get you started:
  🫖
  🍵 
 -->
+
 - 🌱 I’m currently learning more Javascript OOP 
 - 🔭 I’m currently working on several client applications ready 🚀
 - 👩🏾‍💻 Accepting new freelance clients check out my portfolio “Mentoring software engineering students with [Portfolio](https://pascaledelaunay.netlify.app/)
