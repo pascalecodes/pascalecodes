@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning more Javascript OOP 
-- 🔭 I’m currently working on several client applications ready 🚀
-- 👩🏾‍💻 Accepting new freelance clients check out my portfolio “Mentoring software engineering students with [Portfolio](https://pascaledelaunay.netlify.app/)
+- 🔭 I’m currently working on several client applications ready to 🚀
+- 👩🏾‍💻 Accepting new freelance clients. Go to my [website](https://pascaledelaunay.netlify.app/) to book a consultation
 - 👀 I’m looking to collaborate on Software Engineering and Next-Gen Technology Projects
 - 📬 Reach me: pdelauna@gmail.com
 
  - 💬 Ask me about Software Engineering, Sports, Competing, Leadership, Sales Engineering, Solutions Architect techologies like Cybersecurity or Collaboration
 
- - When I'm not doing technology I'm making technology more accessible to underserved countries with my non-profit [Connect and Elevate ](https://connectandelevate.org/). If you want to ❤️ volunteer your expertise for one of our STEM programs let me know
+ - When I'm not doing technology I'm making technology more accessible to under-served countries with my non-profit [Connect and Elevate ](https://connectandelevate.org/). If you want to ❤️ volunteer your expertise for one of our STEM programs let me know
 
 <!-- ### Technical Skills -->
 
