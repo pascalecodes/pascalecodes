@@ -8,7 +8,7 @@
 <h4 align="center">A technologist by DNA, with a background in product, strategy, sales and engineering. I love the entire process of developing creative ideas, whether they be my own or others. When it comes to 🧠, I subscribe to Kaizen philosophy, I enjoy learning new things, always willing to find creative solutions.</h4>
 <h4 align="center"> 🥇 Since I hung up my spikes as a professional triple jumper 🏃🏾‍♀️ I have even more time to spend learning, creating and building 🆒 things 🎆. 🛑 Don't get it twisted I'm still 🏋🏾‍♀️ (and probably "can beat you in a race" and "squat more than you") #TeamFit4life</h4>
 
-- 🌱 I’m currently learning **Web Authentication with Oauth** 
+- 🌱 I’m currently learning **Working and stretching MVC ** 
 - 🔭 I’m currently working on **several client applications ready to 🚀**
 - 👩🏾‍💻 Accepting new freelance clients. **Go to my [website](https://pascaledelaunay.netlify.app/) to book a consultation**
 - 👀 I’m looking to collaborate on **Software Engineering and Next-Gen Technology Projects**
