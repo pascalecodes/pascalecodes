@@ -12,7 +12,7 @@
 - 👀 I’m looking to collaborate on **Software Engineering and Next-Gen Technology Projects**
 - 📬 Reach me: **pdelauna@gmail.com**
 
- - 💬 Ask me about **Software Engineering, Sports, Competing, Leadership, Sales Engineering, Solutions Architect techologies like Cybersecurity or Collaboration**
+ - 💬 Ask me about **Software Engineering, Sports, Competing, Leadership, Sales Engineering, Solutions Architect, techologies like Cybersecurity, AI or Collaboration**
 
 - ⚡ Fun fact **when I'm not doing technology I'm making technology more accessible to under-served countries with my non-profit [Connect and Elevate ](https://connectandelevate.org/). If you want to ❤️ volunteer your expertise for one of our STEM programs let me know**
 
