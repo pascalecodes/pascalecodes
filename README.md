@@ -1,5 +1,5 @@
 <!-- ### Hi 👋🏾, I'm Pascale  -->
-<h1 align="center">Hi 👋🏾, I'm Pascale</h1>
+<h1 align="center">Hi 👋🏾 I'm Pascale</h1>
 
  An innovator by DNA, with a background in product, strategy, sales and engineering. I love the entire process of developing creative ideas, whether they be my own or others. When it comes to 🧠,  I subscribe to Kaizen philosophy, I enjoy learning new things, always willing to find creative solutions.🥇 Since I hung up my spikes as a professional triple jumper 🏃🏾‍♀️ I have even more time to spend learning, creating and building :cool: things :fireworks: and still #TeamFit4life
 
